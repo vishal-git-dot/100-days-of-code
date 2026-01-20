@@ -6,3 +6,24 @@ My 100 Days of Code challenge — daily log and code.
 - Today I created the repository for my 100 Days of Code challenge.
 - Wrote my first simple program (Hello World).
 - Learned how to push changes to GitHub.
+
+
+### Day 2: Python Basics
+
+**What I did:**
+- Learned basic Python syntax
+- Practiced `print()` statements
+- Worked with variables and data types
+- Performed arithmetic operations
+- Learned type casting (`str`, `int`, `float`)
+- Explored lists and unpacking
+- Understood local vs global variables
+
+**Files added:**
+- `day02/python-intro.md`
+
+**Key Learnings:**
+- Python is dynamically typed
+- Variables can be reassigned to different data types
+- Lists can be unpacked into multiple variables
+- Local variables inside functions do not affect global variables

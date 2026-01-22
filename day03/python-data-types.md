@@ -1,4 +1,4 @@
-# 🐍 Python Data Types – Day 2 (100 Days of Code)
+# 🐍 Python Data Types – Day 3 (100 Days of Code)
 
 This document demonstrates all major built-in Python data types using simple functions.
 Each section includes clear explanations for beginners.
@@ -212,4 +212,4 @@ nonetype()
 
 ---
 
-✅ End of Day 2 – Python Data Types
+✅ End of Day 3 – Python Data Types

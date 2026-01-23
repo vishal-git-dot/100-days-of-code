@@ -48,3 +48,29 @@ My 100 Days of Code challenge — daily log and code.
 - Each data type has specific use cases
 - Functions help organize and test different data types
 - `type()` is used to identify variable data types
+
+
+### Day 4 – Python Numbers & Strings
+
+**What I did:**
+- Learned Python numeric data types (int, float, complex)
+- Worked with scientific notation numbers
+- Practiced type conversion between numbers
+- Generated random numbers using the `random` module
+- Learned Python string basics
+- Practiced string indexing, looping, and slicing
+- Used common string methods (`upper`, `lower`, `strip`, `replace`, `split`)
+- Learned string concatenation and f-strings
+- Explored escape characters in strings
+
+**Files added:**
+- `day04/python-numbers-random.md`
+- `day04/python-strings.md`
+
+**Key Learnings:**
+- Python supports multiple numeric types with flexible conversion
+- Scientific notation values are treated as floats
+- The `random` module helps generate random numbers
+- Strings are iterable and support slicing
+- String methods simplify text manipulation
+- f-strings provide a clean way to format strings

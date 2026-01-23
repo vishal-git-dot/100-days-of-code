@@ -29,7 +29,7 @@ My 100 Days of Code challenge — daily log and code.
 - Local variables inside functions do not affect global variables
 
 
-### 📅 Day 3 – Python Basics & Data Types
+### Day 3 – Python Basics & Data Types
 
 **What I did:**
 - Learned basic Python syntax and printing

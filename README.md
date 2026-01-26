@@ -74,3 +74,25 @@ My 100 Days of Code challenge — daily log and code.
 - Strings are iterable and support slicing
 - String methods simplify text manipulation
 - f-strings provide a clean way to format strings
+
+
+### Day 5 – Python Booleans, Operators & Conditional Statements
+
+**What I did:**
+- Learned how Python evaluates truthy and falsy values
+- Practiced Boolean expressions using `bool()`
+- Worked with arithmetic operators (`+`, `-`, `*`, `/`, `%`, `**`, `//`)
+- Practiced assignment operators (`+=`, `-=`, `*=`, `/=`, etc.)
+- Learned bitwise assignment operators
+- Built a menu-driven program using `if`, `elif`, and `else`
+- Compared numbers using equality and greater/lesser conditions
+
+**Files added:**
+- `day05/booleans-operators-ifelse.md`
+
+**Key Learnings:**
+- Non-empty values evaluate to `True`, empty values evaluate to `False`
+- Python supports multiple operator categories
+- Assignment operators modify variables in place
+- Conditional statements control program flow
+- User input can be combined with logic to build interactive programs

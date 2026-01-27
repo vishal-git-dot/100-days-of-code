@@ -96,3 +96,24 @@ My 100 Days of Code challenge — daily log and code.
 - Assignment operators modify variables in place
 - Conditional statements control program flow
 - User input can be combined with logic to build interactive programs
+
+
+### Day 6 – Python Operators
+
+**What I did:**
+- Learned comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+- Practiced logical operators (`and`, `or`, `not`)
+- Understood identity operators (`is`, `is not`)
+- Worked with bitwise operators (`&`, `|`, `^`, `~`)
+- Used membership operators (`in`, `not in`)
+- Built a small interactive program to check list membership using user input
+
+**Files added:**
+- `day06/python-operators.md`
+
+**Key Learnings:**
+- Comparison operators return Boolean values
+- Logical operators combine multiple conditions
+- Identity operators compare memory references, not values
+- Bitwise operators work at the binary level
+- Membership operators help check existence in collections

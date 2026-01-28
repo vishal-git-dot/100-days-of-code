@@ -117,3 +117,24 @@ My 100 Days of Code challenge — daily log and code.
 - Identity operators compare memory references, not values
 - Bitwise operators work at the binary level
 - Membership operators help check existence in collections
+
+
+### Day 7 – Python Lists & Loops
+
+**What I did:**
+- Learned list operations and methods such as `append`, `remove`, `insert`, and `clear`
+- Practiced list slicing and indexing
+- Explored looping techniques with `for`, `while`, and list comprehensions
+- Built interactive programs that filter and modify lists based on conditions
+- Learned how to join and copy lists
+- Sorted and reversed lists using built-in methods
+
+**Files added:**
+- `day07/python-lists-loops.md`
+
+**Key Learnings:**
+- Lists are versatile and support various operations for adding, removing, and modifying elements
+- Looping through lists with `for`, `while`, and list comprehension simplifies iteration and modification
+- List comprehension allows easy filtering and transformation of data
+- Lists can be joined using `+` or `extend()`
+- `sort()` and `reverse()` allow efficient sorting and reversing of list items

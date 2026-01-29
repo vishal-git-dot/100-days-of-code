@@ -138,3 +138,22 @@ My 100 Days of Code challenge — daily log and code.
 - List comprehension allows easy filtering and transformation of data
 - Lists can be joined using `+` or `extend()`
 - `sort()` and `reverse()` allow efficient sorting and reversing of list items
+
+
+### Day 8 – Python List Exercises
+
+**What I did:**
+- Practiced real-world problems using lists
+- Revisited list operations like `append`, `insert`, `extend`, `pop`, and `sort`
+- Explored negative indexing and slicing techniques
+- Solved exercises involving even/odd filtering, sum, and list reversal
+- Implemented list algorithms like finding length manually, copying, and doubling lists
+
+**Files added:**
+- `day08/list-exercises.md`
+
+**Key Learnings:**
+- List operations become intuitive through repeated practice
+- List slicing and negative indexes are powerful tools for data access
+- Built logic for detecting even/odd numbers and calculating sum and length without built-ins
+- Enhanced understanding of data manipulation by solving real-world style tasks

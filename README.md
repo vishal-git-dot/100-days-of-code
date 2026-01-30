@@ -157,3 +157,24 @@ My 100 Days of Code challenge — daily log and code.
 - List slicing and negative indexes are powerful tools for data access
 - Built logic for detecting even/odd numbers and calculating sum and length without built-ins
 - Enhanced understanding of data manipulation by solving real-world style tasks
+
+
+### Day 9 – Python Tuples
+
+**What I did:**
+- Learned what tuples are and how they are immutable
+- Created tuples using `()` and the `tuple()` constructor
+- Practiced accessing elements using indexing and slicing
+- Used tuple unpacking with and without the asterisk `*`
+- Learned how to loop through tuples using `for`, `while`, and `range()`
+- Explored tuple operations like join, multiply, count, and index
+
+**Files added:**
+- `day09/python-tuples.md`
+
+**Key Learnings:**
+- Tuples are like lists but immutable, making them suitable for fixed data
+- Single-element tuples require a trailing comma (e.g., `("hello",)`)
+- Tuple unpacking is useful for variable assignment
+- Looping and accessing items work just like lists
+- Tuples support basic operations like concatenation, repetition, and indexing

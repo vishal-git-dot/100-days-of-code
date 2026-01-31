@@ -178,3 +178,23 @@ My 100 Days of Code challenge — daily log and code.
 - Tuple unpacking is useful for variable assignment
 - Looping and accessing items work just like lists
 - Tuples support basic operations like concatenation, repetition, and indexing
+
+
+### Day 10 – Python Sets
+
+**What I did:**
+- Explored the creation and usage of sets in Python
+- Learned the difference between `set()` constructor and literal `{}` syntax
+- Used methods like `add()`, `remove()`, `discard()`, and `pop()`
+- Accessed set elements via loops and membership tests
+- Updated sets with `update()` method
+- Performed common set operations: union, intersection, difference, and intersection_update
+
+**Files added:**
+- `day10/python-sets.md`
+
+**Key Learnings:**
+- Sets are unordered collections with no duplicates
+- Methods like `union()` and `intersection()` make set comparisons powerful
+- Updating and modifying sets is intuitive but unordered
+- Perfect for membership tests and data uniqueness

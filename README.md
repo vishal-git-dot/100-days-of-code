@@ -198,3 +198,22 @@ My 100 Days of Code challenge — daily log and code.
 - Methods like `union()` and `intersection()` make set comparisons powerful
 - Updating and modifying sets is intuitive but unordered
 - Perfect for membership tests and data uniqueness
+
+
+### Day 11 – Python Dictionaries
+
+**What I did:**
+- Created and printed dictionaries with multiple data types (including lists)
+- Used the `dict()` constructor for cleaner syntax
+- Accessed dictionary elements using `[]`, `.get()`, `.keys()`, `.values()`, `.items()`
+- Modified values and saw dynamic views in `.values()`
+- Checked for the existence of keys using `in`
+- Learned dictionary updating and value overriding techniques
+
+**Files added:**
+- `day11/python-dictionaries.md`
+
+**Key Learnings:**
+- Dictionaries are key-value pairs with fast lookups
+- `dict.values()` returns a live view that updates with changes
+- `.update()` allows mass updating of dictionary values

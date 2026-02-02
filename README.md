@@ -217,3 +217,20 @@ My 100 Days of Code challenge — daily log and code.
 - Dictionaries are key-value pairs with fast lookups
 - `dict.values()` returns a live view that updates with changes
 - `.update()` allows mass updating of dictionary values
+
+
+### Day 12 – Python While Loops
+
+**What I did:**
+- Practiced while loops with `break` and `continue`
+- Learned how incorrect `continue` usage can create infinite loops
+- Demonstrated how to safely increment inside loops
+
+**Files added:**
+- `day12/while-loops.md`
+
+**Key Learnings:**
+- `while` loops run based on a condition rather than a counter
+- `break` exits a loop when a condition is met
+- `continue` skips the rest of the loop body for that iteration
+- Proper increment placement is critical to avoid infinite loops

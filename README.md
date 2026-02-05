@@ -234,3 +234,22 @@ My 100 Days of Code challenge — daily log and code.
 - `break` exits a loop when a condition is met
 - `continue` skips the rest of the loop body for that iteration
 - Proper increment placement is critical to avoid infinite loops
+
+
+### Day 13 – Python Functions, Parameters & Scope
+
+**What I did:**
+- Defined and called basic functions
+- Used parameters, return values, and default arguments
+- Handled `*args` and `**kwargs`
+- Practiced keyword arguments and dictionary unpacking
+- Explored variable scopes and the use of `global`
+
+**Files added:**
+- `day13/functions-arguments-scope.md`
+
+**Key Learnings:**
+- Functions make code reusable and organized
+- `*args` collects multiple positional arguments into a tuple
+- `**kwargs` collects keyword arguments into a dictionary
+- Scope management helps avoid accidental variable overwrites

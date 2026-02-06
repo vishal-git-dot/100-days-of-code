@@ -253,3 +253,22 @@ My 100 Days of Code challenge — daily log and code.
 - `*args` collects multiple positional arguments into a tuple
 - `**kwargs` collects keyword arguments into a dictionary
 - Scope management helps avoid accidental variable overwrites
+
+
+### Day 14 – Arrays (Lists) and DateTime
+
+**What I did:**
+- Practiced using Python lists (arrays)
+- Accessed, updated, added, and removed list elements
+- Used loops to iterate through lists
+- Worked with the `datetime` module
+- Formatted date and time using `strftime()`
+
+**Files added:**
+- `day14/arrays-and-datetime.md`
+
+**Key learnings:**
+- Python lists are mutable and index-based
+- `append()` and `remove()` modify lists dynamically
+- `datetime.now()` gives current system date & time
+- `strftime()` converts date/time into readable formats

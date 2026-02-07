@@ -272,3 +272,21 @@ My 100 Days of Code challenge — daily log and code.
 - `append()` and `remove()` modify lists dynamically
 - `datetime.now()` gives current system date & time
 - `strftime()` converts date/time into readable formats
+
+
+### Day 15 – Python Modules and Platform
+
+**What I did:**
+- Imported built-in Python modules
+- Imported variables from a custom module
+- Used the `platform` module to detect the operating system
+- Accessed dictionary data from another Python file
+
+**Files added:**
+- `day15/modules-and-platform.md`
+
+**Key learnings:**
+- Python supports built-in and user-defined modules
+- `from module import item` imports specific objects
+- `platform.system()` returns OS information
+- Modules help keep code clean and reusable

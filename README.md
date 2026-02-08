@@ -290,3 +290,23 @@ My 100 Days of Code challenge — daily log and code.
 - `from module import item` imports specific objects
 - `platform.system()` returns OS information
 - Modules help keep code clean and reusable
+
+
+### Day 16 – Regular Expressions (re)
+
+**What I did:**
+- Practiced regex pattern matching using Python’s `re` module
+- Used `findall()` to match letters, digits, and patterns with wildcards
+- Checked string start/end using anchors like `^`, `\A`, and `\Z`
+- Practiced quantifiers (`*`, `+`, `?`, `{2}`) to control matching
+- Used special sequences like `\d`, `\D`, `\s`, `\S`, `\w`, `\W`
+- Split text using `re.split()`
+
+**Files added:**
+- `day16/regex-basics.md`
+
+**Key learnings:**
+- Regex helps search and validate text using patterns
+- `findall()` returns all matches in a list
+- Anchors check positions (start/end of string)
+- Quantifiers control how much text a pattern matches

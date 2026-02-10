@@ -310,3 +310,23 @@ My 100 Days of Code challenge — daily log and code.
 - `findall()` returns all matches in a list
 - Anchors check positions (start/end of string)
 - Quantifiers control how much text a pattern matches
+
+
+### Day 17 – Classes and Objects (OOP)
+
+**What I did:**
+- Created simple classes and objects
+- Used class variables and instance variables
+- Implemented constructors using `__init__()`
+- Created methods and called methods inside other methods
+- Built small real-world examples like calculator and movie manager
+
+**Files added:**
+- `day17/classes-and-objects.md`
+
+**Key learnings:**
+- Classes act as blueprints for objects
+- Objects store data and behavior together
+- `self` refers to the current object
+- Methods define what an object can do
+- OOP makes programs more structured and reusable

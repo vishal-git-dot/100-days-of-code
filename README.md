@@ -330,3 +330,22 @@ My 100 Days of Code challenge — daily log and code.
 - `self` refers to the current object
 - Methods define what an object can do
 - OOP makes programs more structured and reusable
+
+
+### Day 18 – Inheritance (OOP)
+
+**What I did:**
+- Practiced inheritance using parent and child classes
+- Created a `Student` class that inherits from `Person`
+- Added child-only methods and tested calling them safely using `try/except`
+- Built a `Book` and `Publisher` example to understand inherited attributes + extra child methods
+
+**Files added:**
+- `day18/inheritance-basics.md`
+
+**Key learnings:**
+- Child classes inherit attributes and methods from parent classes
+- `pass` creates an empty subclass that still inherits everything
+- Parent objects cannot call child-only methods
+- Child classes can add new methods and reuse parent methods
+- `super().__init__()` is the preferred way to call the parent constructor

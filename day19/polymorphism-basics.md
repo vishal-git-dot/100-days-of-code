@@ -6,17 +6,7 @@ In Python, it allows different classes to have methods with the **same name** bu
 
 ---
 
-## ❌ Error in Original Code
-
-Your original line:
-```python
-x.teeth() [fix errors]
-```
-This causes a **syntax error** because `[fix errors]` is not valid Python code.
-
----
-
-## ✅ Fixed & Working Code
+## Code
 
 ```python
 class NewBorn:

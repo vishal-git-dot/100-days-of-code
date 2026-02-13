@@ -349,3 +349,21 @@ My 100 Days of Code challenge — daily log and code.
 - Parent objects cannot call child-only methods
 - Child classes can add new methods and reuse parent methods
 - `super().__init__()` is the preferred way to call the parent constructor
+
+
+### Day 19 – Polymorphism
+
+**What I did:**
+- Practiced polymorphism using multiple classes with the same method name
+- Created different classes representing life stages
+- Called the same method (`teeth()`) on different objects
+- Used a loop to treat objects uniformly
+
+**Files added:**
+- `day19/polymorphism-basics.md`
+
+**Key learnings:**
+- Polymorphism allows the same method name with different behavior
+- Python supports polymorphism through duck typing
+- Objects don’t need inheritance to behave polymorphically
+- Method execution depends on the object type

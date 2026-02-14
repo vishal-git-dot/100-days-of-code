@@ -367,3 +367,22 @@ My 100 Days of Code challenge — daily log and code.
 - Python supports polymorphism through duck typing
 - Objects don’t need inheritance to behave polymorphically
 - Method execution depends on the object type
+
+
+### Day 20 – Exception Handling
+
+**What I did:**
+- Practiced using `try`, `except`, `else`, and `finally`
+- Handled `ValueError` during user input conversion
+- Learned how and when to raise custom exceptions
+- Understood why `input()` always returns a string
+
+**Files added:**
+- `day20/exception-handling.md`
+
+**Key learnings:**
+- Exception handling prevents program crashes
+- `else` runs only if no exception occurs
+- `finally` always executes
+- `raise` is used for custom error handling
+- User input must be converted before validation

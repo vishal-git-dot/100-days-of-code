@@ -386,3 +386,23 @@ My 100 Days of Code challenge — daily log and code.
 - `finally` always executes
 - `raise` is used for custom error handling
 - User input must be converted before validation
+
+
+### Day 21 – File Handling
+
+**What I did:**
+- Read text files using `read()` and `readline()`
+- Appended new content to files using append mode
+- Handled missing files safely using `try/except`
+- Learned why files must exist before opening in read mode
+- Read specific numbers of characters from a file
+
+**Files added:**
+- `day21/file-handling.md`
+
+**Key learnings:**
+- `"r"` mode fails if the file does not exist
+- Use `try/except FileNotFoundError` for file checks
+- `"a"` mode adds content without deleting old data
+- `read(n)` reads limited characters
+- Always close files after use

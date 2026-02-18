@@ -406,3 +406,22 @@ My 100 Days of Code challenge — daily log and code.
 - `"a"` mode adds content without deleting old data
 - `read(n)` reads limited characters
 - Always close files after use
+
+
+### Day 22 – Multiple Class Practice
+
+**What I did:**
+- Created multiple independent classes (Person, Car, Book)
+- Built calculation classes for circle and rectangle areas
+- Practiced constructors and instance variables
+- Called methods from different objects
+
+**Files added:**
+- `day22/multiple-classes-practice.md`
+
+**Key learnings:**
+- Classes organize related data and behavior
+- `self` stores object-specific values
+- Methods can either print or return values
+- Naming conventions (PascalCase) improve code quality
+- Calculation classes should return values instead of printing

@@ -425,3 +425,26 @@ My 100 Days of Code challenge — daily log and code.
 - Methods can either print or return values
 - Naming conventions (PascalCase) improve code quality
 - Calculation classes should return values instead of printing
+
+
+### Day 23 – Dictionary Practice
+
+**What I did:**
+- Created a student dictionary with multiple keys and values
+- Iterated through dictionary items using `.items()`
+- Checked dictionary length using `len()`
+- Retrieved specific values and checked their data types
+- Modified list values inside a dictionary
+- Used `.keys()` and `.values()`
+- Removed items using `.pop()`
+- Copied a dictionary and modified the copy
+
+**Files added:**
+- `day23/dictionary-practice.md`
+
+**Key learnings:**
+- Dictionaries store structured data using key–value pairs
+- `.items()`, `.keys()`, and `.values()` are essential methods
+- Lists inside dictionaries can be modified
+- `.copy()` creates a shallow copy
+- `.pop()` removes keys safely

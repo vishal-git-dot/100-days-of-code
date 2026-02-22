@@ -448,3 +448,21 @@ My 100 Days of Code challenge — daily log and code.
 - Lists inside dictionaries can be modified
 - `.copy()` creates a shallow copy
 - `.pop()` removes keys safely
+
+
+### Day 24 – Clearing Lists in Python
+
+**What I did:**
+- Used `.clear()` to empty a list
+- Cleared a list using `pop()` in a loop
+- Removed elements using `remove()` with slicing
+- Learned alternative methods like `del` and reassignment
+
+**Files added:**
+- `day24/clear-list-methods.md`
+
+**Key learnings:**
+- `.clear()` is the cleanest and most efficient way
+- `pop()` and `remove()` loops are slower
+- `mylist = []` creates a new list object
+- `del mylist[:]` removes all elements using slicing

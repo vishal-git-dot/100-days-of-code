@@ -466,3 +466,21 @@ My 100 Days of Code challenge — daily log and code.
 - `pop()` and `remove()` loops are slower
 - `mylist = []` creates a new list object
 - `del mylist[:]` removes all elements using slicing
+
+
+### Day 25 – Finding Largest Number (With Dry Run)
+
+**What I did:**
+- Found the largest number in a list without using `max()`
+- Used a loop with comparison logic
+- Practiced dry run step-by-step tracing
+- Learned about time complexity O(n)
+
+**Files added:**
+- `day25/find-largest-dry-run.md`
+
+**Key learnings:**
+- Initialize with the first element
+- Compare each value and update conditionally
+- Dry run improves debugging and interview skills
+- Manual logic helps understand built-in functions

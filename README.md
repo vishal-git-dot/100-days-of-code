@@ -484,3 +484,21 @@ My 100 Days of Code challenge — daily log and code.
 - Compare each value and update conditionally
 - Dry run improves debugging and interview skills
 - Manual logic helps understand built-in functions
+
+
+### Day 26 – Find Maximum Number (Dry Run)
+
+**What I did:**
+- Found the maximum value in a list manually
+- Used comparison inside a loop
+- Practiced step-by-step dry run tracing
+- Reinforced understanding of O(n) time complexity
+
+**Files added:**
+- `day26/find-max-dry-run.md`
+
+**Key learnings:**
+- Initialize with first element
+- Update when a larger value is found
+- Dry run improves debugging
+- Manual approach builds strong algorithm foundation

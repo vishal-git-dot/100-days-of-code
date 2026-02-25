@@ -502,3 +502,24 @@ My 100 Days of Code challenge — daily log and code.
 - Update when a larger value is found
 - Dry run improves debugging
 - Manual approach builds strong algorithm foundation
+
+
+### Day 27 – HTML Form with PHP & MySQL
+
+**What I built:**
+- HTML Signup Form
+- PHP Backend Script
+- MySQL Database Connection
+- Insert Data into Database
+
+**Concepts practiced:**
+- POST method
+- $_REQUEST
+- mysqli_connect()
+- SQL INSERT query
+- Basic backend workflow
+
+**Files added:**
+- index.html (Frontend form)
+- insert.php (Backend logic)
+- README.md (Documentation)

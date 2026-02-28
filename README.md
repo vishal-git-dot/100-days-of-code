@@ -523,3 +523,17 @@ My 100 Days of Code challenge — daily log and code.
 - index.html (Frontend form)
 - insert.php (Backend logic)
 - README.md (Documentation)
+
+
+### Day 28 – Python Functions & Lambda
+
+**Concepts practiced:**
+- User-defined functions
+- Lambda expressions
+- Closures
+- filter()
+- String manipulation
+- Reversing sequences
+
+**File added:**
+- day28/functions-lambda.md

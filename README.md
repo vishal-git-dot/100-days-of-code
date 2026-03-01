@@ -537,3 +537,21 @@ My 100 Days of Code challenge — daily log and code.
 
 **File added:**
 - day28/functions-lambda.md
+
+
+### Day 29 – Sets in Python
+
+**Concepts practiced:**
+- Creating sets
+- Looping through sets
+- add() and remove()
+- union()
+- intersection()
+- difference()
+- symmetric_difference()
+
+**File added:**
+- day29/sets-practice.md
+
+**Key learning:**
+Sets are unordered collections of unique elements and are useful for comparison operations.

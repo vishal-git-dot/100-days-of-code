@@ -555,3 +555,6 @@ My 100 Days of Code challenge — daily log and code.
 
 **Key learning:**
 Sets are unordered collections of unique elements and are useful for comparison operations.
+
+
+### Day 30 – Mini Project 🚀  

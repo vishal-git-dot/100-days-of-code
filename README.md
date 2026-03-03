@@ -558,3 +558,32 @@ Sets are unordered collections of unique elements and are useful for comparison 
 
 
 ### Day 30 – Mini Project 🚀  
+
+
+### Day 31: Django Setup & Project Structure
+
+**What I did:**
+
+- Installed Django framework  
+- Created a new Django project  
+- Understood Django project structure  
+- Ran development server  
+- Created first Django app  
+- Registered app in settings  
+- Created a basic view  
+- Connected URLs to view  
+- Displayed first Django response in browser  
+
+**Files added:**
+
+- Day31/Django-Setup-Project-Structure.md
+
+**Key Learnings:**
+
+- Django follows the MVT (Model-View-Template) pattern  
+- A Django project can contain multiple apps  
+- `settings.py` controls project configuration  
+- `urls.py` handles routing  
+- `views.py` contains application logic  
+- `manage.py` is used to run Django commands  
+- The development server runs locally at `127.0.0.1:8000`

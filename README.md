@@ -589,7 +589,7 @@ Sets are unordered collections of unique elements and are useful for comparison 
 - The development server runs locally at `127.0.0.1:8000`
 
 
-### 📅 Day 32: Django Templates & HTML Integration
+### Day 32: Django Templates & HTML Integration
 
 **What I Did:**
 - Created `templates` folder inside Django app  

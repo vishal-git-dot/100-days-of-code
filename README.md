@@ -587,3 +587,25 @@ Sets are unordered collections of unique elements and are useful for comparison 
 - `views.py` contains application logic  
 - `manage.py` is used to run Django commands  
 - The development server runs locally at `127.0.0.1:8000`
+
+
+### 📅 Day 32: Django Templates & HTML Integration
+
+**What I Did:**
+- Created `templates` folder inside Django app  
+- Created `home.html` file  
+- Replaced `HttpResponse` with `render()`  
+- Connected view to template  
+- Passed dynamic data using context dictionary  
+- Displayed variables using `{{ }}` syntax  
+- Tested output in browser  
+
+**Files Added:**
+- day32/Django-Templates-HTML-Integration.md
+
+**Key Learnings**
+- Django uses a Template Engine to render HTML  
+- `render(request, template_name, context)` returns HTML response  
+- Context dictionary sends backend data to frontend  
+- `{{ variable }}` is used to display dynamic data  
+- Templates help separate business logic from UI  

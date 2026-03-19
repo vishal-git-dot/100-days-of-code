@@ -52,7 +52,7 @@ Day46/
 
 ## 🧠 Key Concepts Learned
 
-- **FileField / ImageField** → Used for file uploads
+- **FileField / ImageField** → Used for file uploads.
 - `request.FILES` → Handles uploaded files
 - `MEDIA_ROOT` → Directory where files are stored
 - `MEDIA_URL` → URL to access uploaded files

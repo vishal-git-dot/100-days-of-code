@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Contact List</h2>
+
+<form method="GET">
+    <input type="text" name="q" placeholder="Search" value="{{ query }}">
+    <button type="submit">Search</button>
+</form>
+
+<ul>
+{% for contact in contacts %}
+    <li>
+        {{ contact.name }} - {{ contact.email }}
+
+        <a href="/contacts/edit/{{ contact.id }}/">Edit</a>
+        <a href="/contacts/delete/{{ contact.id }}/">Delete</a>
+    </li>
+{% empty %}
+    <li>No contacts found</li>
+{% endfor %}
+</ul>
+
+{% endblock %}

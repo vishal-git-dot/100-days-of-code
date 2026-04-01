@@ -1,0 +1,12 @@
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+    name = "John"
+    skills = ["Python", "Flask", "HTML"]
+    return render_template("home.html", name=name, skills=skills)
+
+if __name__ == "__main__":
+    app.run(debug=True)

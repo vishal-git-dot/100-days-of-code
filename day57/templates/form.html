@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Validation</title>
+</head>
+<body>
+
+<h2>Enter Your Name</h2>
+
+<form method="POST">
+    <input type="text" name="name" placeholder="Enter name">
+    <button type="submit">Submit</button>
+</form>
+
+{% if error %}
+    <p style="color:red;">{{ error }}</p>
+{% endif %}
+
+{% if name %}
+    <h3>Hello, {{ name }}!</h3>
+{% endif %}
+
+</body>
+</html>
